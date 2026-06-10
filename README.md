@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=900&color=CBA6F7&center=true&vCenter=true&width=640&lines=yakubavm+%40+gmail.com;Middle+Python+Developer;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Ryzen+9+9950X3D+%7C+RX+9070+XT+%7C+96+GB+DDR5;btw%2C+i+use+arch.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=900&color=CBA6F7&center=true&vCenter=true&width=640&lines=yakubavm+%40+proton.me;Middle+Python+Developer;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Ryzen+9+9950X3D+%7C+RX+9070+XT+%7C+96+GB+DDR5;btw%2C+i+use+arch.)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,7 @@
   /_/  \/  \_\      gpu       AMD Radeon RX 9070 XT [RDNA 4 · 16 GB GDDR6]
                     memory    96 GiB DDR5-6400 (2×48 GB dual channel)
                     shell     zsh + starship
-                    terminal  kitty
-                    editor    neovim + Zed IDE
-                    browser   Zen Browser
-                    music     ¯\_(ツ)_/¯
-                    theme     Catppuccin Mocha
-                    uptime    too long
+
 ```
 
 ---
@@ -32,7 +27,7 @@ class Developer:
     name     = "Viktor Yakuba"
     role     = "Middle Python Developer"
     location = "Ukraine"
-    email    = "yakubavm@gmail.com"
+    email    = "yakubavm@proton.me"
 
     focus = [
         "backend engineering",

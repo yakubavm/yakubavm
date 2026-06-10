@@ -7,7 +7,7 @@
 ---
 
 ```
-       /\           yakubavm @ gmail.com
+       /\           yakubavm @ proton.me
       /  \          ─────────────────────────────────────────
      /\   \         os        Arch Linux x86_64
     /  __  \        wm        Hyprland

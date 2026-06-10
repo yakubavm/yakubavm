@@ -10,11 +10,10 @@
        /\           yakubavm @ gmail.com
       /  \          ─────────────────────────────────────────
      /\   \         os        Arch Linux x86_64
-    /  __  \        wm        Hyprland (HyDE Project)
+    /  __  \        wm        Hyprland
    / _/  \_ \       cpu       AMD Ryzen 9 9950X3D  [16c/32t · Zen 5 + 3D V-Cache]
   /_/  \/  \_\      gpu       AMD Radeon RX 9070 XT [RDNA 4 · 16 GB GDDR6]
                     memory    96 GiB DDR5-6400 (2×48 GB dual channel)
-                    shell     zsh + starship
 
 ```
 

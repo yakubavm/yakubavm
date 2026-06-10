@@ -54,7 +54,7 @@ class Developer:
 | **data** | `PostgreSQL` `Redis` `SQLAlchemy` `Alembic` |
 | **infra** | `Docker` `Nginx` `GitHub Actions` `Linux` |
 | **ai / tooling** | `OpenAI API` `Anthropic API` `Telegram Bots` `pytest` |
-| **daily driver** | `Arch Linux` `Hyprland` `HyDE Project` `Neovim` `Zed IDE` `kitty` `zsh` `starship` `Zen Browser` |
+| **daily driver** | `Arch Linux` `Hyprland` `Neovim` `Zed IDE` `kitty` `zsh` `starship` `Zen Browser` |
 
 ---
 

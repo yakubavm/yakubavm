@@ -184,27 +184,27 @@
 <rect x="345.2" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="345.2" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="345.2" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="345.2" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
+<rect x="345.2" y="356.5" width="9.5" height="9.5" rx="2" fill="#6553b4"/>
 <rect x="345.2" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="358.2" y="267.0" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
+<rect x="358.2" y="267.0" width="9.5" height="9.5" rx="2" fill="#6553b4"/>
 <rect x="358.2" y="284.9" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="358.2" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="358.2" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="358.2" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="358.2" y="356.5" width="9.5" height="9.5" rx="2" fill="#6553b4"/>
+<rect x="358.2" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="358.2" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="371.2" y="267.0" width="9.5" height="9.5" rx="2" fill="#6553b4"/>
+<rect x="371.2" y="267.0" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="371.2" y="284.9" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="371.2" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="371.2" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="371.2" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
+<rect x="371.2" y="338.6" width="9.5" height="9.5" rx="2" fill="#3c3367"/>
 <rect x="371.2" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="371.2" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="267.0" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="284.9" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="384.3" y="338.6" width="9.5" height="9.5" rx="2" fill="#3c3367"/>
+<rect x="384.3" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="384.3" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="397.4" y="267.0" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
@@ -380,22 +380,22 @@
 <rect x="710.6" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="710.6" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="710.6" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="710.6" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
+<rect x="710.6" y="356.5" width="9.5" height="9.5" rx="2" fill="#9970e3"/>
 <rect x="710.6" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="267.0" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="284.9" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="302.8" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="320.7" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="338.6" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<rect x="723.6" y="356.5" width="9.5" height="9.5" rx="2" fill="#9970e3"/>
+<rect x="723.6" y="356.5" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
 <rect x="723.6" y="374.4" width="9.5" height="9.5" rx="2" fill="#1c2532"/>
-<text x="97.2" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Dec</text>
-<text x="214.7" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Feb</text>
-<text x="266.9" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Mar</text>
-<text x="319.1" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Apr</text>
-<text x="436.5" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Jun</text>
-<text x="488.7" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Jul</text>
-<text x="606.1" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Sep</text>
+<text x="84.2" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Dec</text>
+<text x="201.6" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Feb</text>
+<text x="253.8" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Mar</text>
+<text x="306.0" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Apr</text>
+<text x="423.5" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Jun</text>
+<text x="475.7" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Jul</text>
+<text x="593.1" y="255" fill="#94a3b8" font-size="12" font-family="Consolas,DejaVu Sans Mono,monospace" font-weight="400" >Sep</text>
 <text x="45" y="420" fill="#94a3b8" font-size="14" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="400" >Sun  →  Sat    ·    Dots represent calendar days</text>
 <text x="797" y="263" fill="#e9f1ff" font-size="17" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="400" >Python</text>
 <text x="1113" y="263" fill="#94a3b8" font-size="16" font-family="Segoe UI,Inter,Arial,sans-serif" font-weight="400" text-anchor="end" >99.4%</text>
